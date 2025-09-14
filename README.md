@@ -3,6 +3,8 @@ Analytic portfolio
 
 # 📊 Excel Data Analysis Project
 
+To access the project, open the My Excel Project foler and click view raw data or you can access through the google drive link https://docs.google.com/spreadsheets/d/17V-4hDQc_fXXSzw1KQr4FyPUZh4wFdTa/edit?usp=sharing&ouid=106769653225641718032&rtpof=true&sd=true
+
 ## Project Overview
 This project showcases a complete data analysis workflow inside a single Microsoft Excel workbook. It demonstrates the process from raw data to interactive insights, all within one file.
 
