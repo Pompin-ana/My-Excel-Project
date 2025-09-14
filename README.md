@@ -30,5 +30,3 @@ This workbook contains the following sheets:
 *   **Data Analysis:** Summarizing and exploring data with Pivot Tables.
 *   **Data Visualization:** Creating an interactive dashboard with charts and slicers.
 *   **Excel Proficiency:** Utilizing multiple sheets, formulas, and features in one integrated workbook.
-*   Insight 2: [e.g., Sales peaked in the month of November, likely due to holiday shopping trends.]
-*   Insight 3: [e.g., A specific region, like the West Coast, had the highest customer growth rate.]
